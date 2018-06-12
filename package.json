@@ -1,0 +1,28 @@
+{
+    "name": "elastic-search-demo",
+    "version": "1.0.0",
+    "description": "A simple demo app to test elastic search",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "elasticsearch"
+    ],
+    "author": "Akshay L Aradhya",
+    "license": "ISC",
+    "dependencies": {
+        "csvtojson": "^2.0.3",
+        "elasticsearch": "^15.0.0",
+        "get-json": "^1.0.0",
+        "line-reader": "^0.4.0"
+    },
+    "devDependencies": {
+        "eslint": "^4.12.1",
+        "eslint-config-standard": "^10.2.1",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-node": "^5.2.1",
+        "eslint-plugin-promise": "^3.6.0",
+        "eslint-plugin-standard": "^3.0.1"
+    }
+}
